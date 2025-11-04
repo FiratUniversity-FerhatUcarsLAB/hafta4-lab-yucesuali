@@ -3,6 +3,7 @@
  * Ogrenci No: [250541065]
  * Dosya: MaasHesap.java
  * Aciklama: Çalışan bilgilerini alıp detaylı maaş bordrosu oluşturan program.
+ * Görev 3 Maaş Hesap
  */
 
 import java.util.Scanner;
