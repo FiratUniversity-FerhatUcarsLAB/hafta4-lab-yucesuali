@@ -3,6 +3,7 @@
  * Ogrenci No: [250541065]
  * Dosya: GeometrikHesap.java
  * Aciklama: Daire yarıçapını alıp, daire ve küre hesaplamaları yapan program.
+ * Görev 2 Geometrik Hesap
  */
 
 import java.util.Scanner;
